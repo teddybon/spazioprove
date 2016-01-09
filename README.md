@@ -1,6 +1,8 @@
 # Progetto Base
 Area di prova con una struttura base di grafica basata su bootstrap e frontend AngularJS
 
+Scelto template base free da usare [Modern Business] [http://startbootstrap.com/template-overviews/modern-business/]
+
 ## Struttura base
 poichè l'intero sistema di basa su una struttura con tema bootstrap ecco le dir principali
 
