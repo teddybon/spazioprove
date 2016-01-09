@@ -1,0 +1,26 @@
+<!Doctype html>
+<html>
+<head>
+  <!-- Caricamento CSS locali per bootstrap -->
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/modern-business.css">
+</head>
+<body ng-app="spazioprova">
+  <div ng-include='"templates/header.html"'></div>
+  <div ng-view></div>
+  <div ng-include='"templates/footer.html"'></div>
+
+  <!-- Caricamento js locali per bootstrap -->
+  <script src="js/bootstrap.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.js"></script>
+  <script src="js/jqBootstrapValidation.js"></script>
+  <script src="js/contact_me.js"></script>
+  <!-- Caricamento da CDN libreria js per AngularJS -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.min.js"></script>
+  <!-- Caricamento locale MAIN applicazione AngularJS -->
+  <script src="js/main.js"></script>
+</body>
+</html>
