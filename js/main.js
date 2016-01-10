@@ -21,4 +21,4 @@ app.config(['$routeProvider', function ($routeProvider) {
  */
 app.controller('PageCtrl', function (/* $scope, $location, $http */) {
   console.log("Pages Controller log.");
-}]);
+});
