@@ -15,3 +15,4 @@ Per la struttura di paginazione verranno usate due dir una contenente le struttu
 * --/template - Contiene le parti di tema disse Header e Fooder
 * --/pages - Contiene le parti variabili del tema, ovvero il corpo delle varie pagine
 
+## WIKI - https://github.com/xanio/spazioprove/wiki
